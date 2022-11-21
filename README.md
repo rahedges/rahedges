@@ -1,4 +1,4 @@
-### Hi there 👋
+### Robert Hedges
 
 <!--
 **rahedges/rahedges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src=https://user-images.githubusercontent.com/5270930/203087925-e8acd7ae-c7a8-4c0c-a13d-3badb917e956.png width="100">
